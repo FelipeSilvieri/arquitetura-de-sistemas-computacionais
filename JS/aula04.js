@@ -1,0 +1,2 @@
+// clojures
+let umaFuncao = function
